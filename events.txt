@@ -1,0 +1,4 @@
+birthday,18.00
+work celebration,14.00
+vet appointment,12.00
+meeting,8.00

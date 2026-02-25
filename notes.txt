@@ -1,0 +1,4 @@
+day,today was a good day
+remember,go to grandma today
+class,tomorrow class change at 7
+pray,go to mosque

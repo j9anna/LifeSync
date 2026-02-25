@@ -1,0 +1,4 @@
+do homework,school,1
+wash dishes,chores,3
+do laundry, chores,2
+go for a walk,sport,4
